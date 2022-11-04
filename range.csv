@@ -1,0 +1,84 @@
+NETBLOCK,COMPANY,NUM OF IPS
+116.202.0.0/16,Hetzner Online GmbH,65536
+116.203.0.0/16,Hetzner Online GmbH,65536
+128.140.0.0/17,Hetzner Online GmbH,32768
+135.181.0.0/16,Hetzner Online GmbH,65536
+136.243.0.0/16,Server Block,65536
+138.201.0.0/16,Server Block,65536
+142.132.128.0/17,Hetzner Online GmbH,32768
+144.76.0.0/16,Server Block,65536
+148.251.0.0/16,Server Block,65536
+157.90.0.0/16,Hetzner Online GmbH,65536
+159.69.0.0/16,Hetzner Online GmbH,65536
+162.55.0.0/16,Hetzner Online GmbH,65536
+167.233.0.0/16,Hetzner Online GmbH,65536
+167.235.0.0/16,Hetzner Online GmbH,65536
+168.119.0.0/16,Hetzner Online GmbH,65536
+171.25.225.0/24,HSM IT Services GmbH,256
+176.9.0.0/16,Hetzner Online GmbH,65536
+178.212.75.0/24,Tele-Kabel-Ingenieurgesellschaft mbH (TKI-mbH),256
+178.63.0.0/16,Hetzner Online GmbH,65536
+185.107.52.0/22,GigaDSL GmbH,1024
+185.110.95.0/24,Expert Solutions Georgia LLC,256
+185.112.180.0/24,Devguard GmbH,256
+185.126.28.0/22,AKC-Schwarz GmbH,1024
+185.12.65.0/24,Hetzner Online GmbH,256
+185.136.140.0/23,B1 Systems GmbH,512
+185.157.176.0/23,atnd GmbH,512
+185.157.178.0/23,atnd GmbH,512
+185.157.83.0/24,Adrian Andreas Zajonz trading as Host1,256
+185.171.224.0/22,kajomi GmbH,1024
+185.189.228.0/24,Fritz Managed IT GmbH,256
+185.189.229.0/24,Fritz Managed IT GmbH,256
+185.189.230.0/24,JS Holding GmbH trading as GFE Consulting Services GmbH & Co. KG,256
+185.189.231.0/24,JS Holding GmbH trading as GFE Consulting Services GmbH & Co. KG,256
+185.209.124.0/22,Klemens Pohl trading as GP-Elektronik Klemens Pohl e.K.,1024
+185.213.45.0/24,abl solutions GmbH,256
+185.216.237.0/24,Daniel Nachtrub trading as Nuvotex Solutions GmbH & Co. KG,256
+185.226.99.0/24,OctoGate IT Security Systems GmbH,256
+185.228.8.0/23,bluechip Computer Aktiengesellschaft,512
+185.242.76.0/24,Hotsplots GmbH,256
+185.36.144.0/22,Kitmaker Entertainment SA,1024
+185.50.120.0/23,NETZINT-WI-01,512
+188.34.128.0/17,Hetzner Online GmbH,32768
+188.40.0.0/16,Hetzner Online GmbH,65536
+193.110.6.0/23,ZDIS GmbH,512
+193.163.198.0/24,Schmer.IT GmbH,256
+193.25.170.0/23,ITfM GmbH,512
+194.35.12.0/23,AlphaVPS - VPS Clients in DE,512
+194.42.180.0/22,Network of Online-Info Service GmbH,1024
+194.42.184.0/22,Network of Online-Info Service GmbH,1024
+194.62.106.0/24,Clyso GmbH,256
+195.201.0.0/16,Hetzner Online GmbH,65536
+195.248.224.0/24,PP UP-TRADING,256
+195.60.226.0/24,Video Internet Technologies LTD.,256
+195.96.156.0/24,Wireless IoT Solutions GmbH,256
+197.242.84.0/22,ZA Managed Servers in DE (xneeloner Africa Range),1024
+201.131.3.0/24,Binbit Mexico SA de CV,256
+213.133.96.0/19,Hetzner Online GmbH,8192
+213.232.193.0/24,Evionyx Solutions UG (haftungsbeschraenkt),256
+213.239.192.0/18,Hetzner Online GmbH,16384
+217.78.237.0/24,Webdock.io ApS,256
+23.88.0.0/17,Hetzner Online GmbH,32768
+45.136.70.0/23,Webdock.io ApS,512
+45.148.28.0/22,Infolink LLC,1024
+45.15.120.0/22,Stadtwerke OELSNITZ/V. GmbH,1024
+46.4.0.0/16,Hetzner Online GmbH,65536
+49.12.0.0/16,Hetzner Online GmbH,65536
+49.13.0.0/16,Hetzner Online GmbH,65536
+5.75.128.0/17,Hetzner Online GmbH,32768
+5.9.0.0/16,Hetzner Online GmbH,65536
+65.108.0.0/16,Hetzner Online GmbH,65536
+65.109.0.0/16,Hetzner Online GmbH,65536
+65.21.0.0/16,Hetzner Online GmbH,65536
+78.46.0.0/15,Hetzner Online GmbH,131072
+85.10.192.0/18,Hetzner Online GmbH,16384
+88.198.0.0/16,Hetzner Online GmbH,65536
+88.99.0.0/16,Hetzner Online GmbH,65536
+91.107.128.0/17,Hetzner Online GmbH,32768
+91.190.240.0/21,Patrick Gaertke,2048
+91.233.8.0/22,ITfM GmbH,1024
+94.130.0.0/16,Hetzner Online GmbH,65536
+94.154.121.0/24,Planet Technologies UG,256
+95.216.0.0/16,Hetzner Online GmbH,65536
+95.217.0.0/16,Hetzner Online GmbH,65536
